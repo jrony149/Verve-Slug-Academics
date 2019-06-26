@@ -3,10 +3,11 @@
 # Verve-Slug-Academics
 
 **VSA** is a app/web service to provide the fair trade of tutoring (tutoring bartering system)
+
 **Members**: Cris, Brian, Kisoo, Dayeon, Jrony
 
 ## Introduction
-asdf
+**Workflow**: https://cloud.smartdraw.com/readonly.aspx?depoId=14742139&credID=-26566797&pubDocShare=7EF3F115DD5267CC2347037DD24E47F8961
 
 ## Details
 asdf
