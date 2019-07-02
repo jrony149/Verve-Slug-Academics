@@ -12,7 +12,8 @@
 
 ## How to run server
 1. install Django 2.2 with Python3
-2. enter command ($ python manage.py runserver)
+2. Go to project folder
+3. enter command ($ python manage.py runserver)
 
 ## Details
 asdf
