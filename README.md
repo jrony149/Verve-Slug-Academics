@@ -12,7 +12,7 @@
 
 ## How to run server
 1. install Django 2.2 with Python3
-2. Go to project folder
+2. Go to project folder in unix environment
 3. enter command ($ python manage.py runserver)
 
 ## Details
